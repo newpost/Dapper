@@ -231,3 +231,4 @@ Note: to get the latest pre-release build, add ` -Pre` to the end of the command
 ### 1.25
 
 - Command recycling and disposing during pipelined async multi-exec; enable pipeline (via sync-over-async) for sync API"
+### test
